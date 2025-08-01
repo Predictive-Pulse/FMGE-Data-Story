@@ -21,16 +21,12 @@ This repository contains a comprehensive analysis of medical education challenge
 
 ## Carousel
 The data analysis was presented in form of a carousel on LinkedIn. View the [carousel](linkedin-carousel.pdf)
-Below is a preview of the cover and selected slides from the LinkedIn carousel:
-
 
 ---
 
 
 ## Data & Methodology
 
-- **Data file:** [FMGE_Data](FMGE_Data_Analysis.xlsx)
-- **Data visualization files** ![NEET Exam Statistics](NEET-statistics.png), ![FMGE Exam's Passing Rate per Year](pass-rate.png) and Top 10 destinations for Foreign MBBS and their ![passing rate](top-Destinations.png).
 
 This analysis was conducted using a rigorous, multi-stage workflow leveraging Google Sheets for all data operations. Year-wise FMGE results were individually downloaded as PDF documents from the official National Board of Examinations in Medical Sciences’ website (https://natboard.edu.in/). Each PDF was converted into Excel format using specialized online tools to ensure accurate data extraction.
 
@@ -45,12 +41,22 @@ Analytical operations included the use of functions like `VLOOKUP`, `SUM`, and v
 
 For data visualization, a series of interactive and static bar charts were produced directly within Google Sheets, spotlighting trends, comparisons, and summary statistics critical to stakeholders. The entire analytical process demonstrates proficiency in large-scale data management, advanced spreadsheet techniques, data cleaning, transformation, and compelling data storytelling—ensuring results are transparent, reproducible, and relevant for diverse audiences.
 
+- **Data file:** [FMGE_Data](FMGE_Data_Analysis.xlsx)
+- **Data visualization files**
+  **NEET Exam Statistics**
+  ![NEET Exam Statistics](NEET-statistics.png)
+  **FMGE Exam's Passing Rate over Years**
+  ![FMGE Exam's Passing Rate over Years](pass-rate.png)
+  and **Top 10 destinations for Foreign MBBS** and their **passing rate**
+  ![passing rate](top-Destinations.png).
+
 
 ## Key Insights
 
 - Only **1 in 22** NEET applicants secures an MBBS seat in India.
 - From **297,757** foreign MBBS graduates, just **22%** passed the FMGE (2019–2024).
 - Pass rates vary sharply by country; new destinations are rising, but with mixed outcomes.
+- For Institution wise analysis view the dataset [FMGE_Data](FMGE_Data_Analysis.xlsx).
 
 ---
 
