@@ -20,7 +20,7 @@ This repository contains a comprehensive analysis of medical education challenge
 ---
 
 ## Carousel
-The data analysis was presented in form of a carousel on LinkedIn. View the ![carousel](/FMGE_Data_Analysis)
+The data analysis was presented in form of a carousel on LinkedIn. View the [carousel](linkedin-carousel.pdf)
 Below is a preview of the cover and selected slides from the LinkedIn carousel:
 
 
@@ -29,8 +29,8 @@ Below is a preview of the cover and selected slides from the LinkedIn carousel:
 
 ## Data & Methodology
 
-- **Data file:** ![FMGE_Data](FMGE_Data_Analysis.xlsx)
-- **Data visualization files** ![NEET Exam Statistics]([NEET Exam Statistics.png](FMGE-Data-Story/blob/main/NEET%20Exam%20Statistics.png)), ![FMGE Exam's % Pass Rate vs. Year](FMGE-Data-Story/blob/main/%25%20Pass%20Rate%20vs.%20Year.png) and ![Top 10 destinations for Foreign MBBS](FMGE-Data-Story/blob/main/Top%2010%20Destinations.png).
+- **Data file:** [FMGE_Data](FMGE_Data_Analysis.xlsx)
+- **Data visualization files** ![NEET Exam Statistics](NEET-statistics.png), ![FMGE Exam's Passing Rate per Year](pass-rate.png) and Top 10 destinations for Foreign MBBS and their ![passing rate](top-Destinations.png).
 
 This analysis was conducted using a rigorous, multi-stage workflow leveraging Google Sheets for all data operations. Year-wise FMGE results were individually downloaded as PDF documents from the official National Board of Examinations in Medical Sciences’ website (https://natboard.edu.in/). Each PDF was converted into Excel format using specialized online tools to ensure accurate data extraction.
 
